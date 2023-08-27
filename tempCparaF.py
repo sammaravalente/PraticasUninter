@@ -1,3 +1,5 @@
+# Conversão de temperatura Celsius para Fahrenheit. Utilização de operadores.
+
 celsius = float(input('Qual a temperatura em Celsius? '))
 fahrenheit = (9 * celsius / 5) + 32
 
