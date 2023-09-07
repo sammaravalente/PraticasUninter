@@ -13,7 +13,7 @@ while senha != "python123":
     senha = input("Digite sua senha: ")
     continue
 
-print("Acesso concedido")
+print("Acesso concedido.")
 
 
 # ------------
